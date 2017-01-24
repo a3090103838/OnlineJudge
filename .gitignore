@@ -1,0 +1,17 @@
+tmp*
+*.bak
+*.diff
+target/
+metastore_db/
+.idea/
+.classpath
+.project
+.settings/
+*.iml
+.tags*
+*.jar
+dependency-reduced-pom.xml
+.arcconfig
+.DS_Store
+.iml
+derby.log
